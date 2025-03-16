@@ -1,0 +1,150 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "2ueEMJCM69XTtocQ_3R_9",
+      "name": "green",
+      "value": "#8dcd88"
+    },
+    {
+      "id": "evnI0-SSefV6lyrhUN3wM",
+      "name": "green2",
+      "value": "#79d2a9"
+    },
+    {
+      "id": "D4RjiJWPn46PaClkdtXj_",
+      "name": "grreenblue",
+      "value": "#15c1a4"
+    },
+    {
+      "id": "N3WU66h2psVCV3xxjcort",
+      "name": "blue1",
+      "value": "#69bec9"
+    },
+    {
+      "id": "cLcX9BrsXgq0lGPl7r2gX",
+      "name": "blue2",
+      "value": "#76afcb"
+    },
+    {
+      "id": "wJzzTNB30QpXXfPbJPmw2",
+      "name": "blue3",
+      "value": "#7498b9"
+    },
+    {
+      "id": "weQcHyI9siQF7PU4cGdpZ",
+      "name": "blue4",
+      "value": "#607ec3"
+    },
+    {
+      "id": "5c5qZ8iz5tHwRVuDOYcZ0",
+      "name": "purple1",
+      "value": "#9b78ce"
+    },
+    {
+      "id": "Nd_tyP-rRZVfJPm71b3O5",
+      "name": "purple2",
+      "value": "#ba61cc"
+    },
+    {
+      "id": "Z6ovTLKgdib3qYUqMB9WT",
+      "name": "putple3",
+      "value": "#cf77ab"
+    },
+    {
+      "id": "KMfK7Db9xo6ir7ROWb-EJ",
+      "name": "red1",
+      "value": "#d38282"
+    },
+    {
+      "id": "UsIcPyg6QFpyihmmVYLOQ",
+      "name": "orange",
+      "value": "#d39f82"
+    },
+    {
+      "id": "wmerU4f-FrbXLaMQBPfsR",
+      "name": "yellow1",
+      "value": "#d6bf80"
+    },
+    {
+      "id": "9Ela_lebP3cqt9hpkYIjJ",
+      "name": "yellow2",
+      "value": "#ced788"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "C++",
+      "color": "2ueEMJCM69XTtocQ_3R_9"
+    },
+    {
+      "path": "Django",
+      "color": "cLcX9BrsXgq0lGPl7r2gX"
+    },
+    {
+      "path": "Matplotlib",
+      "color": "D4RjiJWPn46PaClkdtXj_"
+    },
+    {
+      "path": "maths_python",
+      "color": "D4RjiJWPn46PaClkdtXj_"
+    },
+    {
+      "path": "Numpy",
+      "color": "D4RjiJWPn46PaClkdtXj_"
+    },
+    {
+      "path": "Pandas",
+      "color": "D4RjiJWPn46PaClkdtXj_"
+    },
+    {
+      "path": "python",
+      "color": "D4RjiJWPn46PaClkdtXj_"
+    },
+    {
+      "path": "SQLite3",
+      "color": "5c5qZ8iz5tHwRVuDOYcZ0"
+    },
+    {
+      "path": "TKinter",
+      "color": "D4RjiJWPn46PaClkdtXj_"
+    },
+    {
+      "path": "Web",
+      "color": "Z6ovTLKgdib3qYUqMB9WT"
+    },
+    {
+      "path": "Javascript",
+      "color": "wmerU4f-FrbXLaMQBPfsR"
+    },
+    {
+      "path": "Math_Topics",
+      "color": "9Ela_lebP3cqt9hpkYIjJ"
+    },
+    {
+      "path": "Maths",
+      "color": "9Ela_lebP3cqt9hpkYIjJ"
+    },
+    {
+      "path": "Maths_fixed",
+      "color": "9Ela_lebP3cqt9hpkYIjJ"
+    },
+    {
+      "path": "RegularExpressions",
+      "color": "weQcHyI9siQF7PU4cGdpZ"
+    },
+    {
+      "path": "Datetime",
+      "color": "cLcX9BrsXgq0lGPl7r2gX"
+    },
+    {
+      "path": "AI",
+      "color": "KMfK7Db9xo6ir7ROWb-EJ"
+    },
+    {
+      "path": "Excalidraw",
+      "color": "KMfK7Db9xo6ir7ROWb-EJ"
+    }
+  ]
+}

@@ -2,5 +2,7 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "obsidian-latex-suite",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-file-color",
+  "calendar"
 ]

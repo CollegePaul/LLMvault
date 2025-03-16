@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "python",
+      "color": {
+        "a": 1,
+        "rgb": 3657135
+      }
+    },
+    {
+      "query": "maths",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "web",
+      "color": {
+        "a": 1,
+        "rgb": 13851331
+      }
+    },
+    {
+      "query": "django",
+      "color": {
+        "a": 1,
+        "rgb": 5410784
+      }
+    },
+    {
+      "query": "tkinter",
+      "color": {
+        "a": 1,
+        "rgb": 5431432
+      }
+    },
+    {
+      "query": "ai",
+      "color": {
+        "a": 1,
+        "rgb": 15223410
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.06915972592651695,
+  "close": true
+}

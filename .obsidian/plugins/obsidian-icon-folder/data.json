@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiBrush",
+      "LiExcalidrawIcon",
+      "LiBrain",
+      "FabHtml5",
+      "RiWindowLine"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -20,12 +26,33 @@
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "iconsBackgroundCheckEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "C++": {
+    "iconName": "LiCodeSquare",
+    "iconColor": "#12e25b"
+  },
+  "Datetime": "LiClock",
+  "Django": "FabPython",
+  "Javascript": "FabSquareJs",
+  "Math_Topics": "LiCalculator",
+  "Maths": "LiCalculator",
+  "Maths_fixed": "LiCalculator",
+  "maths_python": "FabPython",
+  "Matplotlib": "LiChartColumn",
+  "Numpy": "LiChartScatter",
+  "Pandas": "LiTable",
+  "python": "FabPython",
+  "RegularExpressions": "LiRegex",
+  "SQLite3": "LiDatabase",
+  "TKinter": "RiWindowLine",
+  "Web": "FabHtml5",
+  "AI": "LiBrain",
+  "Excalidraw": "LiBrush"
 }
