@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/2D array.md",
+                "file": "GameMaker/Accessibility.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2D array"
+              "title": "Accessibility"
             }
           }
         ]
@@ -161,17 +161,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/2D array.md",
+                "file": "GameMaker/Accessibility.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2D array"
+              "title": "Outline of Accessibility"
+            }
+          },
+          {
+            "id": "c833464656db87ee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "deea5a8333f4ce6c",
@@ -202,39 +212,40 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab838789af98fea7",
+  "active": "15c118022d95f7ed",
   "lastOpenFiles": [
+    "GameMaker/Views.md",
+    "GameMaker/Surfaces.md",
+    "GameMaker/State Machines.md",
+    "GameMaker/Rooms.md",
+    "GameMaker/Localization.md",
+    "GameMaker/Game Design.md",
+    "GameMaker/Extensions.md",
+    "GameMaker/Effects.md",
+    "GameMaker/Drawing Functions.md",
+    "GameMaker/Debugging.md",
+    "GameMaker/Data Structures.md",
+    "GameMaker/Collisions.md",
+    "GameMaker/Cameras.md",
+    "GameMaker/Buffers.md",
+    "GameMaker/Backgrounds.md",
+    "GameMaker/Accessibility.md",
+    "python/2D array.md",
     "Excalidraw/Drawing 2025-03-16 14.26.41.excalidraw.md",
     "Untitled.md",
     "Drawings/Drawing 2025-03-16 14.26.01.excalidraw.md",
     "Excalidraw",
     "Theme tester.md",
     "Drawings",
-    "python/2D array.md",
     "Maths_fixed/Chain Rule.md",
     "Maths_fixed/Combinatorics.md",
     "Callout Examples.md",
     "maths_python/Limits.md",
     "maths_python/Graph Theory.md",
-    "maths_python/Exponential Functions.md",
-    "SQLite3/Commit Changes.md",
-    "SQLite3/Avg Function.md",
-    "SQLite3/Aggregate Functions.md",
-    "Obsidian stuff.md",
-    "Link.md",
-    "README.md",
-    "AI/Sigmoid Function.md",
-    "AI/Matplotlib (Visualization).md",
-    "AI/PyTorch (Deep learning).md",
-    "AI/Keras (Deep learning API).md",
-    "AI/TensorFlow (Deep learning).md",
-    "AI/Scikit-learn (Machine learning).md",
-    "AI/Pandas (Data manipulation).md",
-    "AI/NumPy (Numerical operations).md",
-    "AI/Optimization Algorithms.md",
     "AI"
   ]
 }
